@@ -1,38 +1,92 @@
-[
+ [
   {
-    "name": "Aliva Priva Jardin",
-    "price": "47,043",
-    "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
-    "image": "./r1.png"
+    "name": "Auditorio de la Feria de Valladolid",
+    "place": "Valladolid España",
+    "detail": "Barra revestida con microcemento,concret producto de Cement Design, celebracion premios Goya 2024 ",
+    "image": "./barralopevega5.png"
   },
   {
-    "name": "Asatti Garden City",
-    "price": "66,353",
-    "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
-    "image": "./r2.png"
+    "name": "Baño romano",
+    "place": "Madrid España",
+    "detail": "Revestimiento con microcemento turmalina, productos de Cement Design ",
+    "image": "./banoromano.png"
   },
   {
-    "name": "Citralan Puri Serang",
-    "price": "35,853",
-    "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
-    "image": "./r3.png"
+    "name": "Sakro Pizza & Cocktail Bar",
+    "place": "Madrid España",
+    "detail": "Muros y suelos revestidos con microcemento, concrete transit rústico y envejecido, materiales de Cement Design.",
+    "image": "./restaurante1.png"
   },
   {
-    "name": "Aliva Priva Jardin",
-    "price": "47,043",
-    "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
-    "image": "./r1.png"
+    "name": "",
+    "place": "",
+    "detail": "",
+    "image": "./paredcafe.png"
   },
   {
-    "name": "Asatti Garden City",
-    "price": "66,353",
-    "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
-    "image": "./r2.png"
+    "name": "",
+    "place": "",
+    "detail": "",
+    "image": "./restaurante.png"
   },
   {
-    "name": "Citralan Puri Serang",
-    "price": "35,853",
-    "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
-    "image": "./r3.png"
+    "name": "Baño",
+    "place": "Madrid España",
+    "detail": "Muros y suelos revestidos con microcemento turmalina, productos de Cement Design.",
+    "image": "./turmalinablanca.png"
+  },
+  {
+    "name": "",
+    "place": "",
+    "detail": "",
+    "image": "./lavamanosbano.png"
+  },
+  {
+    "name": "La Loca de Enfrente",
+    "place": " El Rastro Madrid España",
+    "detail": "Revestimiento con microcemento rustico concret, materiales de Cement Design",
+    "image": "./lalocadelfrente.png"
+  },
+  {
+    "name": "Mesa de Estudio",
+    "place": "Madrid España",
+    "detail": "Mesa de estudio revestida con microcemento cobre oxidado azul",
+    "image": "./mesondetrabajo.png"
+  },
+  {
+    "name": "",
+    "place": "",
+    "detail": "",
+    "image": "./bar.png"
+  },
+  {
+    "name": "",
+    "place": "",
+    "detail": "",
+    "image": "./restaurante2.png"
+  },
+  {
+    "name": "",
+    "place": "",
+    "detail": "",
+    "image": "./bornandglazed.png"
+  },
+  {
+    "name": "",
+    "place": "",
+    "detail": "",
+    "image": "./bornandglazedentrada.png"
+  },
+  {
+    "name": "Jarrones",
+    "place": "Madrid España",
+    "detail": "Jarrones de vidrio revestidoscon microcemento quercus, producto de Cement Design, cliente interiorista Felipe Renquejo.",
+    "image": "./jarrones.png"
+  },
+  {
+    "name": "La Manzana de Zagreb",
+    "place": "Madrid España",
+    "detail": "Obra de arte Poligonal revestida con microcemento cobre oxidado azul.",
+    "image": "./jarrones.png"
   }
 ]
