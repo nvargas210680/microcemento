@@ -80,13 +80,13 @@
   {
     "name": "Jarrones",
     "place": "Madrid España",
-    "detail": "Jarrones de vidrio revestidoscon microcemento quercus, producto de Cement Design, cliente interiorista Felipe Renquejo.",
+    "detail": "Jarrones de vidrio revestidos con microcemento quercus, producto de Cement Design, cliente interiorista Felipe Renquejo.",
     "image": "./jarrones.png"
   },
   {
-    "name": "La Manzana de Zagreb",
+    "name": "La Manzana de Magritte",
     "place": "Madrid España",
     "detail": "Obra de arte Poligonal revestida con microcemento cobre oxidado azul.",
-    "image": "./jarrones.png"
+    "image": "./manzanapoligonal.png"
   }
 ]
