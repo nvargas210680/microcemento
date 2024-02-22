@@ -19,8 +19,14 @@ const Hero = () => {
             </motion.h1>
           </div>
           <div className="flexColStart hero-des">
-            <span className="secondaryText">Encuentra una variedad de estilos exclusivos, como tu! </span>
-            <span className="secondaryText">Tu elijes el diseno y nosotros nos ecargamos del resto!</span>
+            <span className="secondaryText">
+              Encuentra una variedad de estilos exclusivos,
+              <br /> como tu!{" "}
+            </span>
+            <span className="secondaryText">
+              Tu elijes el diseño
+              <br /> y nosotros nos encargamos del resto!
+            </span>
           </div>
 
           <div className="flexCenter search-bar">
