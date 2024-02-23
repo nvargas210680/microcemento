@@ -37,7 +37,7 @@ const Footer = () => {
             <br />
             Epartales Norte 28806,
             <br />
-            Mobil (+34) 673 16 29 68
+            Movil (+34) 673 16 29 68
           </span>
 
           <div className="flexCenter f-menu">

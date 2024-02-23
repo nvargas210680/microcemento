@@ -21,7 +21,7 @@ const Hero = () => {
           <div className="flexColStart hero-des">
             <span className="secondaryText">
               Encuentra una variedad de estilos exclusivos,
-              <br /> como tu!{" "}
+              <br /> como tu!
             </span>
             <span className="secondaryText">
               Tu elijes el diseño

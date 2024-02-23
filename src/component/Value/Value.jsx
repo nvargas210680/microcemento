@@ -17,7 +17,7 @@ const Value = () => {
         </div>
         {/* right side */}
         <div className="flexColStart v-right">
-          <span className="orangeText">Nuestros Valores</span>
+          <span className="orangeText">Quienes Somos</span>
           <span className="primaryText">Nuestra Misión y Valores</span>
           <span className="secondaryText">
             Valoramos la integridad, innovación y excelencia en cada proyecto,

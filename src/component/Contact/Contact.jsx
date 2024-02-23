@@ -9,7 +9,7 @@ const Contact = () => {
     <section className="c-wrapper">
       <div className="paddings innerWidth flexCenter c-container">
         <div className="flexColStart c-left">
-          <span className="orangeText">Nuestros Contactos</span>
+          <span className="orangeText">Presupuestos e Informacion</span>
           <span className="primaryText">Contactanos</span>
           <span className="secondayText">
             ¡Transforma tus espacios con nuestro exclusivo revestimiento de microcemento! ¡Contáctanos hoy mismo para descubrir cómo podemos llevar tus proyectos de renovación a otro nivel! ¡Estamos
