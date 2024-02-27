@@ -1,16 +1,17 @@
 import React from "react";
 import "./Footer.css";
-
+import { useRef } from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faInstagram } from "@fortawesome/free-brands-svg-icons";
 
 const Footer = () => {
+  const siguenosRef = useRef(null);
   const handleInstagramClick = () => {
     window.open("https://www.instagram.com/artmicrocemento", "_blank");
   };
 
   return (
-    <section className="f-wrapper">
+    <section id="siguenos" className="f-wrapper" ref={siguenosRef}>
       <div className="paddings flexCenter f-container">
         {/* left side */}
         <div className="flexColStart f-left">

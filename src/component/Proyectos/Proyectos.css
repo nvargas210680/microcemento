@@ -1,3 +1,6 @@
+.r-wrapper {
+  height: 100%;
+}
 .r-container {
   overflow: hidden;
 }
@@ -15,7 +18,7 @@
 .r-card > img {
   width: 100%;
   max-width: 35rem;
-  height: 25rem;
+  height: 20rem;
   border-radius: 15px;
 }
 .r-card > :nth-child(2) {

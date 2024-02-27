@@ -3,10 +3,14 @@ import "./Contact.css";
 import { MdCall } from "react-icons/md";
 import { BsFillChatDotsFill } from "react-icons/bs";
 import { HiChatBubbleBottomCenter } from "react-icons/hi2";
+import { useRef } from "react";
 
 const Contact = () => {
+  const contactanosRef = useRef(null);
+
+  //
   return (
-    <section className="c-wrapper">
+    <section id="contactanos" className="c-wrapper" ref={contactanosRef}>
       <div className="paddings innerWidth flexCenter c-container">
         <div className="flexColStart c-left">
           <span className="orangeText">Presupuestos e Informacion</span>

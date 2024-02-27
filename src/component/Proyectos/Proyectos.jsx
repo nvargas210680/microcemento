@@ -4,10 +4,13 @@ import "swiper/css";
 import "./Proyectos.css";
 import data from "../../utils/slider.json";
 import { sliderSettings } from "../../utils/common";
+import { useRef } from "react";
 
 const Proyectos = () => {
+  const proyectoRef = useRef(null);
+
   return (
-    <section className="r-wrapper">
+    <section id="proyectos" ref={proyectoRef} className="r-wrapper">
       <div className="paddings innerWidth r-container">
         <div className="r-head flexColStart">
           <span className="orangeText">Galeria</span>
