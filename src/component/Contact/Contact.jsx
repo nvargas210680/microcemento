@@ -2,13 +2,15 @@ import React from "react";
 import "./Contact.css";
 import { MdCall } from "react-icons/md";
 import { BsFillChatDotsFill } from "react-icons/bs";
-import { HiChatBubbleBottomCenter } from "react-icons/hi2";
 import { useRef } from "react";
 
 const Contact = () => {
   const contactanosRef = useRef(null);
 
-  //
+  const text = {
+    Chat: "Chat",
+  };
+
   return (
     <section id="contactanos" className="c-wrapper" ref={contactanosRef}>
       <div className="paddings innerWidth flexCenter c-container">
@@ -47,7 +49,7 @@ const Contact = () => {
                     <span className="secondaryText">(+34) 673 16 29 68</span>
                   </div>
                 </div>
-                <div className="flexCenter button">Chat</div>
+                <div className="flexCenter button">{text.Chat}</div>
               </div>
             </div>
           </div>

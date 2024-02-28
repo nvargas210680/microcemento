@@ -13,6 +13,7 @@ const Header = () => {
 
   const text = {
     Siguenos: "Siguenos",
+    Get_Started: "Get Started",
   };
 
   const getMenuStyles = (menuOpened) => {
@@ -70,7 +71,7 @@ const Header = () => {
               Contactanos
             </a>
             <a href="#get-started" onClick={scrollToGetStarted}>
-              Get Started
+              {text.Get_Started}
             </a>
             <button className="button" onClick={scrollToSiguenos}>
               <a href="#siguenos">{text.Siguenos}</a>
