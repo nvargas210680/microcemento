@@ -11,6 +11,10 @@ const Header = () => {
   const contactanosRef = useRef(null);
   const comienzoRef = useRef(null);
 
+  const text = {
+    Siguenos: "Siguenos",
+  };
+
   const getMenuStyles = (menuOpened) => {
     if (document.documentElement.clientWidth <= 800) {
       return { right: !menuOpened && "100%" };
@@ -69,7 +73,7 @@ const Header = () => {
               Get Started
             </a>
             <button className="button" onClick={scrollToSiguenos}>
-              <a href="#siguenos">Siguenos</a>
+              <a href="#siguenos">{text.Siguenos}</a>
             </button>
           </div>
         </OutsideClickHandler>
