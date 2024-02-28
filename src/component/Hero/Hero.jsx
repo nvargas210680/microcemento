@@ -29,11 +29,11 @@ const Hero = () => {
             </span>
           </div>
 
-          <div className="flexCenter search-bar">
+          {/* <div className="flexCenter search-bar">
             <HiLocationMarker color="var(--blue)" size={35} />
             <input type="text" />
             <button className="button">Busqueda</button>
-          </div>
+          </div> */}
 
           <div className="flexCenter stats">
             <div className="flexColCenter stat">
