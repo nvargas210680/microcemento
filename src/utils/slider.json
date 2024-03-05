@@ -2,19 +2,19 @@
   {
     "name": "Auditorio de la Feria de Valladolid",
     "place": "Valladolid España",
-    "detail": "Barra revestida con microcemento concrete, producto de Cement Design, celebracion premios Goya 2024 ",
+    "detail": "Barra revestida con microcemento concrete, producto eco-cemento de Cement Design, celebracion premios Goya 2024 ",
     "image": "./barralopevega5.png"
   },
   {
     "name": "Baño romano",
     "place": "Madrid España",
-    "detail": "Revestimiento con microcemento turmalina, productos de Cement Design ",
+    "detail": "Revestimiento con microcemento turmalina, producto eco-cemento de Cement Design ",
     "image": "./banoromano.png"
   },
   {
     "name": "Sakro Pizza & Cocktail Bar",
     "place": "Madrid España",
-    "detail": "Muros y suelos revestidos con microcemento concrete, transit rústico y envejecido, materiales de Cement Design.",
+    "detail": "Muros y suelos revestidos con microcemento concrete, transit rústico y envejecido, producto eco-cemento de Cement Design.",
     "image": "./restaurante1.png"
   },
   {
@@ -32,7 +32,7 @@
   {
     "name": "Baño",
     "place": "Madrid España",
-    "detail": "Muros y suelos revestidos con microcemento turmalina, productos de Cement Design.",
+    "detail": "Muros y suelos revestidos con microcemento turmalina, producto eco-cemento de Cement Design.",
     "image": "./turmalinablanca.png"
   },
   {
@@ -44,13 +44,13 @@
   {
     "name": "La Loca de Enfrente",
     "place": " El Rastro Madrid España",
-    "detail": "Revestimiento con microcemento rustico concrete, materiales de Cement Design",
+    "detail": "Revestimiento con microcemento rustico concrete, producto eco-cemento de Cement Design",
     "image": "./lalocadelfrente.png"
   },
   {
     "name": "Mesa de Estudio",
     "place": "Madrid España",
-    "detail": "Mesa de estudio revestida con microcemento cobre oxidado azul",
+    "detail": "Mesa de estudio revestida con microcemento cobre oxidado azul, producto eco-cemento de Cement Design",
     "image": "./mesondetrabajo.png"
   },
   {
@@ -80,13 +80,31 @@
   {
     "name": "Jarrones",
     "place": "Madrid España",
-    "detail": "Jarrones de vidrio revestidos con microcemento quercus, producto de Cement Design, cliente interiorista Felipe Renquejo.",
+    "detail": "Jarrones de vidrio revestidos con microcemento quercus, producto eco-cemento de Cement Design, cliente interiorista Felipe Renquejo.",
     "image": "./jarrones.png"
   },
   {
     "name": "La Manzana de Magritte",
     "place": "Madrid España",
-    "detail": "Obra de arte Poligonal revestida con microcemento cobre oxidado azul.",
+    "detail": "Obra de arte Poligonal revestida con microcemento cobre oxidado azul, producto eco-cemento de Cement Design",
     "image": "./manzanapoligonal.png"
+  },
+  {
+    "name": "Bodega Mahou",
+    "place": "Madrid España",
+    "detail": "Producto eco-cemento de Cement Design",
+    "image": "./entirebodega.png"
+  },
+  {
+    "name": "Bodega Mahou",
+    "place": "Madrid España",
+    "detail": "Producto eco-cemento de Cement Design",
+    "image": "./bodegasittingarea.png"
+  },
+  {
+    "name": "Bodega Mahou",
+    "place": "Madrid España",
+    "detail": "Producto eco-cemento de Cement Design",
+    "image": "./bodegajonnywalker.png"
   }
 ]
