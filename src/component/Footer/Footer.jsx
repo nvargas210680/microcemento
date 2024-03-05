@@ -2,12 +2,15 @@ import React from "react";
 import "./Footer.css";
 import { useRef } from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faInstagram } from "@fortawesome/free-brands-svg-icons";
+import { faInstagram, faYoutube } from "@fortawesome/free-brands-svg-icons";
 
 const Footer = () => {
   const siguenosRef = useRef(null);
   const handleInstagramClick = () => {
     window.open("https://www.instagram.com/artmicrocemento", "_blank");
+  };
+  const handleYoutubeClick = () => {
+    window.open("https://www.youtube.com/@ArtMicrocemento", "_blank");
   };
 
   return (
@@ -47,8 +50,13 @@ const Footer = () => {
             <span>Contactanos</span>
             <span>Comienzo</span>
           </div>
-          <div className="socialmedia">
-            <FontAwesomeIcon icon={faInstagram} onClick={handleInstagramClick} style={{ cursor: "pointer", fontSize: "2rem", color: "#C13584" }} />
+          <div className="flexCenter social-media">
+            <div className="instagram">
+              <FontAwesomeIcon icon={faInstagram} onClick={handleInstagramClick} style={{ marginRight: "1rem", cursor: "pointer", fontSize: "2rem", color: "#C13584" }} />
+            </div>
+            <div className="youtube">
+              <FontAwesomeIcon icon={faYoutube} onClick={handleYoutubeClick} style={{ cursor: "pointer", fontSize: "2rem", color: "#FF0000" }} />
+            </div>
           </div>
         </div>
       </div>
