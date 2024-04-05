@@ -8,7 +8,7 @@ const Contact = () => {
   const contactanosRef = useRef(null);
 
   const text = {
-    Chat: "Chat",
+    Chat: "Contacto",
   };
 
   return (
