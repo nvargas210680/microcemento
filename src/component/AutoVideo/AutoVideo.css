@@ -3,7 +3,7 @@
 }
 
 .videoFormat {
-  width: 100%;
+  width: 90%;
   border: 35px solid black;
   height: 100%;
   object-fit: cover;
