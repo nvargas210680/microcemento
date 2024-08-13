@@ -1,0 +1,14 @@
+.backgroundColor {
+  height: 100vh;
+}
+
+.videoFormat {
+  width: 100%;
+  border: 35px solid black;
+  height: 100%;
+  object-fit: cover;
+  box-sizing: border-box;
+}
+.primaryText {
+  font-size: 1.1rem;
+}

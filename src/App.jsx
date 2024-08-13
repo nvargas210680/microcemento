@@ -7,6 +7,7 @@ import Value from "./component/Value/Value";
 import Contact from "./component/Contact/Contact";
 import GetStarted from "./component/GetStarted/GetStarted";
 import Footer from "./component/Footer/Footer";
+import AutoVideo from "./component/AutoVideo/AutoVideo";
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
       </div>
       <Suplier />
       <Proyectos />
+      <AutoVideo />
       <Value />
       <Contact />
       <GetStarted />
