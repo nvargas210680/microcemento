@@ -6,7 +6,7 @@ function AutoVideo() {
   return (
     <div className="backgroundColor">
       <video className="videoFormat" src={videoBg} autoPlay loop muted />
-      <div className="primaryText">Nuestra Misión y Valores</div>
+      {/* <div className="primaryText">Nuestra Misión y Valores</div> */}
     </div>
   );
 }
