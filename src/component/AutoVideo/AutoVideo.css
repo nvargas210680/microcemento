@@ -8,6 +8,27 @@
   height: 100%;
   object-fit: cover;
   box-sizing: border-box;
+  transition: all 0.3s ease; /* Smooth transition for resizing */
+}
+@media (max-width: 768px) {
+  .videoFormat {
+    width: 100%; /* Ensure it doesn't stretch beyond the container */
+    height: auto; /* Let the height adjust based on the width to maintain aspect ratio */
+    border: none; /* Optional: remove border on smaller screens for better look */
+  }
+}
+
+@media (min-width: 769px) {
+  .videoFormat {
+    /* Instead of cover, contain will fit the video within the bounds */
+    transform: scale(0.8); /* Reduces the zoom by 10% */
+  }
+
+  /* Optional: Adjust video when it's fullscreen */
+  .videoFormat:fullscreen {
+    object-fit: contain;
+    transform: none; /* Remove the scale effect when the video is fullscreen */
+  }
 }
 .primaryText {
   font-size: 1.1rem;
